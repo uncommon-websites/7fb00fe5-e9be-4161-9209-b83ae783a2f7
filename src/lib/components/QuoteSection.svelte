@@ -5,7 +5,7 @@
 			<div class="rounded-lg overflow-hidden shadow-2xl aspect-[4/3]">
 				<img 
 					src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=2787&auto=format&fit=crop" 
-					alt="Thomas Laubert" 
+					alt="Sarah Chen" 
 					class="w-full h-full object-cover"
 				/>
 			</div>
@@ -16,8 +16,8 @@
 					“ When it comes to AI and technology, it's all about learning by doing. You won't figure everything out right away, but the more you engage with it, the more opportunities you'll see.”
 				</blockquote>
 				<div>
-					<cite class="not-italic font-bold block text-lg mb-1">Thomas Laubert</cite>
-					<span class="text-sm text-gray-600">General Counsel, Bayer</span>
+					<cite class="not-italic font-bold block text-lg mb-1">Sarah Chen</cite>
+					<span class="text-sm text-gray-600">Founder \& CEO, Series B SaaS Company</span>
 				</div>
 			</div>
 		</div>

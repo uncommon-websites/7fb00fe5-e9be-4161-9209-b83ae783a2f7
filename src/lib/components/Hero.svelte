@@ -4,23 +4,23 @@
 
 <section class="pt-36 pb-20 px-6 max-w-[1400px] mx-auto text-center">
 	<h1 class="text-6xl md:text-8xl lg:text-[6.5rem] leading-[0.95] mb-8 tracking-tight font-medium">
-		Professional <br /> Class AI
+		Accelerate Your <br /> Startup Deals
 	</h1>
 	
 	<p class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-12 font-light leading-relaxed">
-		Domain-specific AI for law firms, professional <br />
-		service providers, and the Fortune 500.
+		Specialized commercial playbooks and streamlined <br />
+		contract negotiations for fast-growing startups.
 	</p>
 
 	<button class="bg-white text-black px-7 py-3.5 rounded text-sm font-medium hover:bg-gray-200 transition-colors mb-20">
-		Request a Demo
+		Schedule a Consultation
 	</button>
 
 	<!-- Video Placeholder -->
 	<div class="relative w-full aspect-video md:aspect-[2/1] bg-gray-900 rounded-lg overflow-hidden group cursor-pointer">
 		<img 
-			src="https://images.unsplash.com/photo-1556157382-97eda2d62296?q=80&w=2940&auto=format&fit=crop" 
-			alt="Professional using Harvey" 
+			src="/generated/image-attorney-in-modern-office-working-at-des-1765652537397-0.webp" 
+			alt="Rich Sapien working with startup clients" 
 			class="w-full h-full object-cover opacity-80 group-hover:scale-105 transition-transform duration-700"
 		/>
 		<div class="absolute inset-0 flex items-center justify-center">

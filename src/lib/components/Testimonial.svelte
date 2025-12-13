@@ -8,29 +8,29 @@
 			<!-- Image -->
 			<div class="relative rounded-lg overflow-hidden aspect-video lg:aspect-[4/3] bg-gray-800 shadow-2xl">
 				<img 
-					src="https://images.unsplash.com/photo-1557804506-669a67965ba0?q=80&w=2874&auto=format&fit=crop" 
-					alt="Repsol Case Study" 
+					src="/generated/image-professional-headshot-of-head-of-legal-a-1765652540337-1.webp" 
+					alt="Elliot Ginsburg, Head of Legal at Postscript" 
 					class="w-full h-full object-cover opacity-70 hover:scale-105 transition-transform duration-700"
 				/>
 				<div class="absolute inset-0 flex items-center justify-center">
-					<span class="text-5xl font-bold italic tracking-tighter text-white drop-shadow-lg">repsol</span>
+					<span class="text-5xl font-bold tracking-tight text-white drop-shadow-lg">Postscript</span>
 				</div>
 			</div>
 
 			<!-- Content -->
 			<div>
 				<div class="mb-10">
-					<span class="inline-block px-3 py-1 border border-white/20 rounded text-[10px] uppercase tracking-widest text-gray-300 mb-8">Case Study</span>
+					<span class="inline-block px-3 py-1 border border-white/20 rounded text-[10px] uppercase tracking-widest text-gray-300 mb-8">Client Success</span>
 					<blockquote class="text-3xl md:text-4xl font-serif leading-[1.2] mb-10 font-light">
-						“Harvey has been a significant achievement for our legal department – the implementation of Harvey positions Repsol's lawyers at the forefront of the legal profession's digital transformation.”
+						“Rich provided flexibility in time and price, took the time to understand our product deeply, and delivered quality work that improved our sales cycles and customer relations.”
 					</blockquote>
 					<div class="flex items-center justify-between flex-wrap gap-6">
 						<div>
-							<cite class="not-italic font-medium block text-lg">Pablo Blanco Pérez</cite>
-							<span class="text-sm text-gray-400">General Counsel, Repsol</span>
+							<cite class="not-italic font-medium block text-lg">Elliot Ginsburg</cite>
+							<span class="text-sm text-gray-400">Head of Legal, Postscript</span>
 						</div>
 						<button class="bg-white text-black px-6 py-3 rounded text-sm font-medium hover:bg-gray-200 transition-colors">
-							Read Case Study
+							Read Client Success
 						</button>
 					</div>
 				</div>
